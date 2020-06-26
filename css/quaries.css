@@ -1,0 +1,306 @@
+@media only screen and (max-width:1200px){
+	h1{
+    
+	
+	font-size: 362.5%;
+	margin: 30px auto 0 auto;
+	
+	
+	
+}
+	.top-container{
+	background-color:#E4F9F5;
+	position: relative;
+	padding-top: 7%;
+	width: 100%;
+	height: 100%;
+		
+}
+	
+	.cloud{
+	width: 13%;
+	position: absolute;
+	right: 200px;
+	top: 40px;
+}
+	.cloud2{
+	width: 13%;
+	position: absolute;
+	left: 200px;
+	bottom: 210px;
+	
+}
+	
+    h2{
+	
+	font-size: 150%;
+	padding-bottom: 4px
+	
+}
+	h3{
+	font-size: 100%;
+	
+}
+
+	.mountain{
+	width: 300px;
+	height: 250px;
+	padding-top: 5%;
+	
+	
+}
+	.middle-container{
+	 padding: 30px 0;
+	 width: 60%;
+	 margin:auto;
+		
+	
+}
+	hr{
+	border: 7px dotted #EAF6F6;
+	width: 4%;
+	border-style: dotted none none none;
+	margin: 50px auto;
+	
+	
+}
+    .skill-row{
+	width: 100%;
+	margin: auto;
+	margin: 50px auto 50px auto;
+	text-align: left;
+	line-height: 2;
+	
+}
+	.weddev{
+	margin:35px 30px 65px 0; 
+	
+}
+	.fun{
+	margin-left: 5px;
+	margin-top: 1px;
+	width: 15%;
+	
+	
+	
+	
+}
+	.btn{
+
+	background: #11cdd4;
+	background-image: linear-gradient(top, #11cdd4, #11999e);
+	background-image: -webkit-linear-gradient(top, #11cdd4, #11999e);
+	background-image: -moz-linear-gradient(top, #11cdd4, #11999e);
+	background-image: -ms-linear-gradient(top, #11cdd4, #11999e);
+	background-image: -o-linear-gradient(top, #11cdd4, #11999e);
+	padding:7px 15px;
+	color: #fff;
+	font-size: 15px;
+	border-radius: 8px;
+	font-family:'Montserrat', sans-serif;
+	font-weight: bold;
+	display: inline-block;
+	margin-top: 35px;	
+	
+}
+	.bottom-container{
+	background: #66BFBF;
+	padding-bottom: 10px;
+	
+}
+    .footer-link{
+	padding: 21px 15px 21px 15px;
+}
+
+	#copyright{
+	color: #EAF6F6;
+	padding-bottom: 10px;
+	font-size: 75%;
+	
+
+	
+}
+	.footer-link{
+	width: 30px;
+}
+	
+	
+}
+
+/* --------screen size from 1023px to 768px---------*/
+
+@media only screen and (max-width:1023px){
+		
+	h1{
+    font-size: 262.5%;
+	margin: 30px auto 0 auto;
+	
+	
+	
+}
+	.cloud{
+	width: 13%;
+	position: absolute;
+	right: 100px;
+	top: 40px;
+}
+	.cloud2{
+	width: 13%;
+	position: absolute;
+	left: 100px;
+	bottom: 200px;
+	
+}
+	h2{
+	
+	font-size: 120%;
+	padding-bottom: 4px
+	
+}
+	h3{
+	font-size: 90%;
+	
+}
+
+	.mountain{
+	width: 300px;
+	height: 200px;
+	padding-top: 5%;
+	
+	
+}
+	.middle-container{
+	 padding: 20px 0;
+	 width: 75%;
+	 margin:auto;
+		
+	
+}
+	hr{
+	margin: 30px auto;
+	
+	
+}
+	.btn{
+
+	background: #11cdd4;
+	padding:6px 10px;
+	color: #fff;
+	font-size: 12px;
+	border-radius: 8px;
+	margin-top: 25px;	
+	
+}
+	.footer-link{
+		font-size: 13px
+	}
+	#copyright{
+	color: #EAF6F6;
+	padding-bottom: 7px;
+	font-size: 55%;
+	}
+	.weddev, .charls{
+		width: 20%;
+	}
+	.fun{
+		width: 13%
+	}
+	p{
+		font-size: 13px;
+	}
+	.footer-link{
+	width: 25px;
+}
+
+	
+}
+
+/* --------screen size from 768px to 500px---------*/
+@media only screen and (max-width:767px){
+	h1{
+    font-size: 162.5%;
+	margin: 10px auto 0 auto;
+}
+	h2{
+	
+	font-size: 100%;
+	padding-bottom: 2px
+	
+}
+	h3{
+	font-size: 70%;
+	
+}
+	.cloud{
+	width: 13%;
+	position: absolute;
+	right: 50px;
+	top: 20px;
+}
+	.cloud2{
+	width: 13%;
+	position: absolute;
+	left: 50px;
+	bottom: 180px;
+	
+}
+	.mountain{
+	width: 250px;
+	height: 200px;
+	padding-top: 3%;
+	
+	
+}
+	.middle-container{
+	 padding: 10px 0;
+	 width: 90%;
+	 margin:auto;
+		
+	
+}
+		hr{
+	margin: 20px auto;
+	
+	
+}
+	.btn{
+	padding:4px 7px;
+	color: #fff;
+	font-size: 10px;
+	border-radius: 8px;
+	margin-top: 15px;	
+	
+}
+	.footer-link{
+		font-size: 10px	;
+		padding: 0 22px;
+	}
+	#copyright{
+	color: #EAF6F6;
+	padding-bottom: 5px;
+	font-size: 45%;
+	}
+	
+	p{
+		font-size: 10px;
+	}
+	
+	.footer-link, img{
+	width: 18px;
+	
+}
+	.fun{
+		width: 10%;
+		margin: 3px;
+	}
+	.charls{
+		width: 15%;
+	}
+	.weddev{
+		width: 15%;
+		margin:4px;
+		
+	}
+	
+	
+}
